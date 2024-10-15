@@ -9,7 +9,8 @@
   "version": "1.0.0",
   "main": "babel.config.js",
   "directories": {
-    "test": "test"
+    "test": "test",
+    "src": "src"
   },
   "dependencies": {
     "ansi-escapes": "^4.3.2",
